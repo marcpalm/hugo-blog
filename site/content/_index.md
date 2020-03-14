@@ -1,20 +1,43 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: How to value invest?
+subtitle: 'Value investing in companies , buying cheap , waiting and selling high'
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: Why we invest?
+  text: >-
+    We believe in freedom. Financial freedom is one of the main pillar. Only
+    passive income will achieve this. Stock investments are the easiest way to
+    start it. You can begin with little sum and it scales indefinitely.
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: How we invest?
+  text: >-
+    We distinguish between investing and speculating. Investing means buying
+    assets such as stock, real estate and bonds for the earnings they generate.
+    Speculating equals buying something to sell it to a greater fool tomorrow.
+    We specialise largely on stock investments and analyse them according to
+    their financial statement.
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - image: img/illustrations-coffee.svg
+    text: >
+      We analyse financial statements of publicly traded companies and compare
+      it with their competitors. We want to provide lots of free educational
+      material, check list and analyse some example companies.
+  - image: /img/illustrations-coffee-gear.svg
+    text: >-
+      We provide a screener which can be exported to Excel and Google Sheets.
+      Although most of the universe can only be seen, if you subscribe to a paid
+      plan, some of the content is free.
+  - text: >-
+      We generate reports which do a in depth analysis of the examples. Some of
+      them are free, other have to be bought or you need a subscription. 
+    image: img/illustrations-tutorials.svg
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: Our values
+  text: >-
+    We want to enable people to become investors. The mental freedom experienced
+    by a decent net worth and the knowledge of financial independence greatly
+    increase the quality of live. This is what we want our readers to
+    experience. By the way, it is totally okay for us that you might decide to
+    invest in ETFs after being overwhelmed what goes in the analysis of a single
+    stock.
 ---
-
