@@ -98,16 +98,14 @@ ______________________
 
 ```
 
-* Total Assets: this is the sum of all assets.
-
+* Total Liabilities is the sum of all liabilities
 
 ```
-    Total Current Assets
-+   Property, Plant, Equipment
-+   Goodwill, Net
-+   Intangibles, Net
-+   Long-Term Investments
-+   Other Long-Term Assets
+    Total Current Liabilities
++   Long-Term Debt
++   Deferred Income Tax
++   Minority Interest
++   Other Liabilities
 ______________________
 =   Total Assets
 
