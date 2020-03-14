@@ -112,6 +112,27 @@ ______________________
 
 ```
 
+## What is Book Value?
+
+Book value reflects the total value of a company's assets that shareholders of that company would receive if the company were to be liquidated.
+
+```
+    Total Assets
+-   Intangibles, Net
+-   Total Liabilites
+_____________________
+=   Book value
+
+```
+
+## What is the enterprise value?
+
+Enterprise value defines the price you would have to pay to acquire the company now:
+
+Market capitalisation + Liabilities - Cash
+
+
+Of course, this is a highly theoretical measure because in practice once you start bidding, the market capitalisation starts to rise.
 
 ## What is Share Holder Equity?
 
@@ -126,6 +147,10 @@ The Share Holder Equity is the sum of the above.
 
 ## Checklist for the balance sheet
 
-- [ ] Cash should 
+- [ ] Cash: the cash richest competitor survives in bust times, a relevant metric is cash per market share
+- [ ] Cash & Short Term liabilities: cash should exceed short term liabilities, i.e. Short term Liabilities / Cash should be not much larger than one
+- [ ] Inventory: Fluctuating inventory over the years indicates highly competitive industries with bust and booms. Boom and bust cycles vary by industry, but seven years is a good range.
+- [ ] Total Receivable, Net: Check among industry, the weakest competitor must provide the longest terms
+
 
 
