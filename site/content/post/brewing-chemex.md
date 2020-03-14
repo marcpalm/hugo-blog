@@ -122,7 +122,7 @@ ______________________
 * Treasury common stock: bought back stock appears here with a minus sign
 * Other equity: catchall category
 
-The Share Holder Equity is the sum of the above
+The Share Holder Equity is the sum of the above.
 
 ## Checklist for the balance sheet
 
