@@ -112,4 +112,20 @@ ______________________
 
 ```
 
-## 
+
+## What is Share Holder Equity?
+
+* Preferred stock: stocks with preferred payments but no voting right at current value
+* Common stock: stocks with voting rights at current value
+* Additional paid in capital: initial value of stocks at issuance minus current
+* Retained earnings: earnings kept in the business, can be negative if many losses or paying to much dividend
+* Treasury common stock: bought back stock appears here with a minus sign
+* Other equity: catchall category
+
+The Share Holder Equity is the sum of the above
+
+## Checklist for the balance sheet
+
+- [ ] Cash should 
+
+
