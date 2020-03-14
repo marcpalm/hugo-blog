@@ -38,7 +38,7 @@ Assets = Liabilities + Shareholder Equity
 * Total Inventory: pile of inventory
 * Total Receivable, Net: uncollected bills
 * Prepaid Expenses: prepayments for services and inventory
-* Property, Plant, Equipment: machinery for delivering goods
+* Property, Plant, Equipment: value minus depreciation
 * Goodwill, Net: difference between acquisition and book value
 * Intangibles, Net: patents, copy rights, brand names, etc.
 * Long-Term Investments: investments in stocks, bonds, real estate and other companies
@@ -119,7 +119,7 @@ Book value reflects the total value of a company's assets that shareholders of t
 ```
     Total Assets
 -   Intangibles, Net
--   Total Liabilites
+-   Total Liabilities
 _____________________
 =   Book value
 
@@ -148,9 +148,20 @@ The Share Holder Equity is the sum of the above.
 ## Checklist for the balance sheet
 
 - [ ] Cash: the cash richest competitor survives in bust times, a relevant metric is cash per market share
-- [ ] Cash & Short Term liabilities: cash should exceed short term liabilities, i.e. Short term Liabilities / Cash should be not much larger than one
+- [ ] Cash & Short Term liabilities: cash should ideally exceed short term liabilities, if not, we need strong earnings
 - [ ] Inventory: Fluctuating inventory over the years indicates highly competitive industries with bust and booms. Boom and bust cycles vary by industry, but seven years is a good range.
 - [ ] Total Receivable, Net: Check among industry, the weakest competitor must provide the longest terms
+- [ ] Property, Plant, Equipment: companies without a moat have to reinvest in machines to stay competitive before it wears out.
+- [ ] Goodwill & Long term investment: if there is a lot of it, check acquisition history and whether the company knows how to acquire for a good value
+- [ ] Total assets & earnings: if there is lot of total assets in comparison to earnings, we have a high barrier of entry. Otherwise new entrants can enter easily.
+- [ ] Short term debt: Should be in good ration to long term debt
+- [ ] Long term debt due & long term debt due: good companies don't require much debt, should be payable within four years by earning power.
+- [ ] Minority interest: This might indicate other parties owning parts of the balance sheet. Analyse where this is coming from if it is significant percentage > 3%.
+- [ ] Shareholder equity, Total Liabilities, Treasury common stock: Add the treasury common stock to the shareholder equity instead of subtracting it, then it should be larger total liabilities, i.e. total liabilities divided by that sum should be less than 0.8 except for financial business and other borrowers, where it should lie below the competition.
+- [ ] Shareholder equity, earnings, Treasury common stock: Add the treasury common stock to the shareholder equity instead of subtracting it. The earnings per that sum should be high, indicating how good the money uses the investment.
+- [ ] Preferred stock: it is a bad sign, because those will get most of the earnings
+- [ ] Retained earnings: indicates years of losses or overpaying in dividends, growing is good but not necessary.
+- [ ] Treasury common stock: A negative number indicates buyback of stock, a very positive sign.
 
 
 
