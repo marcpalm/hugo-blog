@@ -21,7 +21,7 @@ What the company owe in open bills, income tax, short and long-term liabilities
 ### Shareholder Equity
 What the company issued in preferred & common stock, retained earnings and stock repurchases
 
-Relation between assets, liabilities, share holder equity
+Relation between assets, liabilities, share holder equity is that assets should equal the sum of liabilities and share holder equity.
 
 ```
 Assets = Liabilities + Shareholder Equity
@@ -44,7 +44,9 @@ Assets = Liabilities + Shareholder Equity
 * Long-Term Investments: investments in stocks, bonds, real estate and other companies
 * Other Long-Term Assets: remaining assets receivable > 1 year
 
-* Total Current Assets:
+## Current Assets vs Total Assets
+
+* Total Current Assets: this is the sum of the cash and equivalents, inventory, receivable and prepaid expenses.
 
 ```
     Cash & Cash Equivalents
@@ -56,7 +58,7 @@ ______________________
 
 ```
 
-* Total Assets
+* Total Assets: this is the sum of all assets.
 
 
 ```
@@ -72,3 +74,43 @@ ______________________
 ```
 
 ## What are the liabilities of a company?
+
+* Accounts Payable: money owed to suppliers
+* Accrued Expenses: expenses not yet invoiced
+* Short-Term Debt: debt payable within one year
+* Long-Term Debt Due: other debt coming due in the current year
+* Other Current Liabilities: other payables within one year
+* Long-Term Debt: debt not payable with the current year
+* Deferred Income Tax: income taxes owed 
+* Minority Interest: the portion of companies owned by 80%, but not 100% can turn up here
+* Other Liabilities: catchall category for debt none of the above, e.g. fines, taxes.
+
+## Current Liabilities vs Total Liabilities
+
+* Total Current Liabilities is the sum of all liabilities payable within the current year:
+
+```
+    Accounts Payable
++   Accrued Expenses
++   Short-Term Debt
+______________________
+=   Total Current Liabilities
+
+```
+
+* Total Assets: this is the sum of all assets.
+
+
+```
+    Total Current Assets
++   Property, Plant, Equipment
++   Goodwill, Net
++   Intangibles, Net
++   Long-Term Investments
++   Other Long-Term Assets
+______________________
+=   Total Assets
+
+```
+
+## 
